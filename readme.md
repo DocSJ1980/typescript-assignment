@@ -33,7 +33,7 @@ node index
 
 **You will approximately (based on your inputs) get the following output:**
 
- 
+``` 
 ---
 Task 1 Started
 Welcome to the SJ's supermarket!
@@ -100,3 +100,4 @@ Task 3 Completed
 ---
 
 Thank you for your time
+```
