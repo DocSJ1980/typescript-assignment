@@ -25,7 +25,7 @@ npm install
 tsc
 ```
 
-### Step 5: Run the file and check the outpus
+### Step 5: Run the file and check the outputs
 ```bash
 node index
 ```
