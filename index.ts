@@ -163,7 +163,7 @@ console.log('Task 2 Started')
 function add(num1: number, num2: number): number {
     return num1 + num2;
 }
-console.log("Task 2 Scenario 1: The sum of 5 and 3: " + (add(5, 3) === 8))
+console.log("Task 2 Scenario 1: The sum of 5 and 3: " + add(5, 3))
 // Scenario 2: Check Even or Odd
 //     Develop a function `checkEvenOrOdd` that checks if a given number is even or odd.
 //     The function should take an integer as a parameter and return a string indicating whether the number is even or odd.

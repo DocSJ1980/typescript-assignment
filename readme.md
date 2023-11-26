@@ -72,7 +72,7 @@ Task 1 Completed
 ---
 
 Task 2 Started
-Task 2 Scenario 1: The sum of 5 and 3: true
+Task 2 Scenario 1: The sum of 5 and 3: 8
 Task 2 Scenario 2: Checking if 4824 is Even or Odd: Even
 Task 2 Scenario 2: Checking if 7835 is Even or Odd: Odd
 Task 2 Scenario 3: The area of a rectangle with width: 5 and height: 3 is: 15
